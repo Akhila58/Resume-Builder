@@ -1,0 +1,16 @@
+[project]
+name = "resume-maker-complete"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.116.1",
+    "firebase-admin>=7.0.0",
+    "langchain[groq]>=0.3.26",
+    "passlib[bcrypt]>=1.7.4",
+    "pypdf2>=3.0.1",
+    "python-dotenv>=1.1.1",
+    "python-multipart>=0.0.20",
+    "uvicorn>=0.35.0",
+]
