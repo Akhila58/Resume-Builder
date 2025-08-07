@@ -17,7 +17,7 @@ The project includes:
 - 📄 Accepts job description as input
 - 🧠 Uses LLM to create a one-page tailored resume (Markdown)
 - 🖨️ Converts Markdown to professional PDF (with no page numbers)
-- 🌐 Frontend to upload resume and JD files
+- 🌐 Frontend to upload resume and JD text
 - ⚙️ Backend processes and returns downloadable resume
 
 ---
